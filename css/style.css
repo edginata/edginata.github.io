@@ -45,10 +45,10 @@ body{
     animation-delay: .10s;
 }
 .greetings > span:nth-child(7){
-    animation-delay: .12s;
+    animation-delay: .1.5s;
 }
 .greetings > span:nth-child(8){
-    animation-delay: .14s;
+    animation-delay: .2s;
 }
 
 .description{
@@ -63,7 +63,7 @@ body{
 }
 
 .description{
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-bottom: 20px;
 }
 @media screen and (max-width:574px){
